@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "productNumber": "12323",
+      "productDescription": "gadget",
+      "productActive": true,
+      "productClass": "Mobile",
+      "unitOfMeasure": [
+        "CM"
+      ],
+      "suggestedVendor": [
+        "KLM"
+      ],
+      "id": 1
+    }
+  ]
+  }
